@@ -16,8 +16,7 @@ namespace Editor.AnimationTool {
             _position = GUILayout.BeginScrollView(_position);
 
             if (GUILayout.Button("Create tiles pack")) {
-                
-                CreateTilePackWindow.GetOrCreateWindow();
+                TileDataManager.OpenEditor();
             }
 
             GUILayout.EndScrollView();
