@@ -1,0 +1,203 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1726182683, guid: a4865f1ab4504ed8a368670db22f409c, type: 3}
+  m_Name: AOTGenerationConfig
+  m_EditorClassIdentifier: 
+  automateBeforeBuilds: 1
+  deleteDllAfterBuilds: 1
+  AutomateForAllAOTPlatforms: 1
+  automateForPlatforms: 0900000014000000
+  lastScan: 638181050223958311
+  supportSerializedTypes:
+  - TypeName: UnityEngine.AnimationClip, UnityEngine.AnimationModule
+    IsCustom: 0
+    Emit: 1
+  - TypeName: UnityEngine.UI.Button, UnityEngine.UI
+    IsCustom: 0
+    Emit: 1
+  - TypeName: Global.Enums.ColorType, Global
+    IsCustom: 0
+    Emit: 1
+  - TypeName: Game.ECS.Match3.Combination.CombinationChecker.CombinationCheckerMatch3,
+      Game
+    IsCustom: 0
+    Emit: 1
+  - TypeName: Game.ECS.Match3.Combination.Sieve.CombinationSieveMatch3, Game
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.Collections.Generic.Dictionary`2[[UnityEngine.UI.Button, UnityEngine.UI],[Global.Enums.ColorType,
+      Global]], mscorlib
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.Collections.Generic.Dictionary`2[[Global.Enums.ColorType, Global],[Spine.Unity.SkeletonDataAsset,
+      spine-unity]], mscorlib
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.Collections.Generic.Dictionary`2[[System.Int32, mscorlib],[Meta.UI.Views.Implementations.LevelView,
+      Meta]], mscorlib
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.Collections.Generic.Dictionary`2[[System.Int32, mscorlib],[Meta.UI.Views.Implementations.LocationView,
+      Meta]], mscorlib
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.Collections.Generic.Dictionary`2[[Global.Enums.LevelType, Global],[UnityEngine.Sprite,
+      UnityEngine.CoreModule]], mscorlib
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.Collections.Generic.Dictionary`2[[Game.ECS.Match3.Enums.MechanicAnimationType,
+      Game],[UnityEngine.AnimationClip, UnityEngine.AnimationModule]], mscorlib
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.Collections.Generic.Dictionary`2[[Game.ECS.Match3.Enums.MechanicAnimationType,
+      Game],[System.String, mscorlib]], mscorlib
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[Spine.Unity.SkeletonDataAsset,
+      spine-unity]], mscorlib
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[TMPro.TextMeshProUGUI,
+      Unity.TextMeshPro]], mscorlib
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.Collections.Generic.Dictionary`2[[Global.Services.Windows.Enums.UIContainerType,
+      Global],[UnityEngine.GameObject, UnityEngine.CoreModule]], mscorlib
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.Collections.Generic.Dictionary`2[[Global.Enums.UnitAnimationType,
+      Global],[System.String, mscorlib]], mscorlib
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.Collections.Generic.EnumEqualityComparer`1[[Global.Enums.ColorType,
+      Global]], mscorlib
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.Collections.Generic.EnumEqualityComparer`1[[Global.Enums.LevelType,
+      Global]], mscorlib
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.Collections.Generic.EnumEqualityComparer`1[[Game.ECS.Match3.Enums.MechanicAnimationType,
+      Game]], mscorlib
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.Collections.Generic.EnumEqualityComparer`1[[Global.Services.Windows.Enums.UIContainerType,
+      Global]], mscorlib
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.Collections.Generic.EnumEqualityComparer`1[[Global.Enums.UnitAnimationType,
+      Global]], mscorlib
+    IsCustom: 0
+    Emit: 1
+  - TypeName: UnityEngine.GameObject, UnityEngine.CoreModule
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.Collections.Generic.GenericEqualityComparer`1[[System.Int32,
+      mscorlib]], mscorlib
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.Collections.Generic.GenericEqualityComparer`1[[System.String,
+      mscorlib]], mscorlib
+    IsCustom: 0
+    Emit: 1
+  - TypeName: Global.Services.Audio.Player.Base.IAudioPlayer, Global
+    IsCustom: 0
+    Emit: 1
+  - TypeName: Game.Services.GameStartupDataInfo.Service.BattlerGridResolver.Base.IBattlerGridResolver,
+      Game
+    IsCustom: 0
+    Emit: 1
+  - TypeName: Game.ECS.Match3.Combination.CombinationChecker.Base.ICombinationChecker,
+      Game
+    IsCustom: 0
+    Emit: 1
+  - TypeName: Game.ECS.Match3.Combination.Sieve.Base.ICombinationSieve, Game
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.Collections.Generic.IEqualityComparer`1[[UnityEngine.UI.Button,
+      UnityEngine.UI]], mscorlib
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.Collections.Generic.IEqualityComparer`1[[Global.Enums.ColorType,
+      Global]], mscorlib
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.Collections.Generic.IEqualityComparer`1[[System.Int32, mscorlib]],
+      mscorlib
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.Collections.Generic.IEqualityComparer`1[[Global.Enums.LevelType,
+      Global]], mscorlib
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.Collections.Generic.IEqualityComparer`1[[Game.ECS.Match3.Enums.MechanicAnimationType,
+      Game]], mscorlib
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.Collections.Generic.IEqualityComparer`1[[System.String, mscorlib]],
+      mscorlib
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.Collections.Generic.IEqualityComparer`1[[Global.Services.Windows.Enums.UIContainerType,
+      Global]], mscorlib
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.Collections.Generic.IEqualityComparer`1[[Global.Enums.UnitAnimationType,
+      Global]], mscorlib
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.Int32, mscorlib
+    IsCustom: 0
+    Emit: 1
+  - TypeName: Game.Services.PerspectiveService.Base.IPerspectiveConfigService, Game
+    IsCustom: 0
+    Emit: 1
+  - TypeName: Global.Enums.LevelType, Global
+    IsCustom: 0
+    Emit: 1
+  - TypeName: Meta.UI.Views.Implementations.LevelView, Meta
+    IsCustom: 0
+    Emit: 1
+  - TypeName: Global.Services.Localization.LocalizationMap, Global
+    IsCustom: 0
+    Emit: 1
+  - TypeName: Meta.UI.Views.Implementations.LocationView, Meta
+    IsCustom: 0
+    Emit: 1
+  - TypeName: Game.ECS.Match3.Enums.MechanicAnimationType, Game
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.Object, mscorlib
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.Collections.Generic.ObjectEqualityComparer`1[[UnityEngine.UI.Button,
+      UnityEngine.UI]], mscorlib
+    IsCustom: 0
+    Emit: 1
+  - TypeName: Spine.Unity.SkeletonDataAsset, spine-unity
+    IsCustom: 0
+    Emit: 1
+  - TypeName: UnityEngine.Sprite, UnityEngine.CoreModule
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.String, mscorlib
+    IsCustom: 0
+    Emit: 1
+  - TypeName: TMPro.TextMeshProUGUI, Unity.TextMeshPro
+    IsCustom: 0
+    Emit: 1
+  - TypeName: Global.Services.Windows.Enums.UIContainerType, Global
+    IsCustom: 0
+    Emit: 1
+  - TypeName: Global.Enums.UnitAnimationType, Global
+    IsCustom: 0
+    Emit: 1
