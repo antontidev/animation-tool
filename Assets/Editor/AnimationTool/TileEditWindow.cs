@@ -7,7 +7,7 @@ using UnityEngine;
 
 namespace Editor
 {
-    public class TileDataManager : OdinMenuEditorWindow
+    public class TileEditWindow : OdinMenuEditorWindow
     {
         private int _currentIndex;
 
@@ -24,7 +24,7 @@ namespace Editor
         [MenuItem("Finiki Games/Edit tile packs")]
         public static void OpenEditor()
         {
-            var window = GetWindow<TileDataManager>();
+            var window = GetWindow<TileEditWindow>();
             window.DoInitialize();
         }
 
