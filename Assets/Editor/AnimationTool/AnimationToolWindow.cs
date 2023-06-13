@@ -18,6 +18,10 @@ namespace Editor.AnimationTool {
             if (GUILayout.Button("Create tiles pack")) {
                 TileEditWindow.OpenEditor();
             }
+            
+            if (GUILayout.Button("Create animation")) {
+                AnimationSetupWindow.OpenEditor();
+            }
 
             GUILayout.EndScrollView();
         }

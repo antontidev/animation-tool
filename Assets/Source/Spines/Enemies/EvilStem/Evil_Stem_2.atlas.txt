@@ -1,0 +1,440 @@
+
+Evil_Stem_2.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ArmL_1
+  rotate: false
+  xy: 855, 124
+  size: 29, 55
+  orig: 29, 55
+  offset: 0, 0
+  index: -1
+ArmL_2
+  rotate: false
+  xy: 758, 112
+  size: 44, 66
+  orig: 44, 66
+  offset: 0, 0
+  index: -1
+ArmR_1
+  rotate: false
+  xy: 717, 115
+  size: 39, 58
+  orig: 39, 58
+  offset: 0, 0
+  index: -1
+ArmR_2_1
+  rotate: false
+  xy: 829, 67
+  size: 30, 55
+  orig: 30, 55
+  offset: 0, 0
+  index: -1
+ArmR_2_3
+  rotate: false
+  xy: 683, 175
+  size: 44, 79
+  orig: 44, 79
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 382, 107
+  size: 115, 147
+  orig: 115, 147
+  offset: 0, 0
+  index: -1
+BrowL_On
+  rotate: false
+  xy: 585, 146
+  size: 57, 108
+  orig: 57, 108
+  offset: 0, 0
+  index: -1
+BrowR_On
+  rotate: false
+  xy: 257, 5
+  size: 72, 89
+  orig: 74, 91
+  offset: 1, 1
+  index: -1
+EyeL_Off
+  rotate: false
+  xy: 585, 111
+  size: 30, 33
+  orig: 32, 35
+  offset: 1, 1
+  index: -1
+EyeL_On
+  rotate: false
+  xy: 617, 111
+  size: 30, 33
+  orig: 32, 35
+  offset: 1, 1
+  index: -1
+EyeR_Off
+  rotate: false
+  xy: 944, 16
+  size: 34, 36
+  orig: 36, 38
+  offset: 1, 1
+  index: -1
+EyeR_On
+  rotate: true
+  xy: 980, 220
+  size: 34, 36
+  orig: 36, 38
+  offset: 1, 1
+  index: -1
+EyelidL
+  rotate: true
+  xy: 716, 2
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+EyelidR
+  rotate: false
+  xy: 744, 3
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+FaceL_On
+  rotate: false
+  xy: 704, 32
+  size: 77, 78
+  orig: 77, 78
+  offset: 0, 0
+  index: -1
+FaceLeafs_1
+  rotate: false
+  xy: 894, 3
+  size: 48, 46
+  orig: 50, 48
+  offset: 1, 1
+  index: -1
+FaceLeafs_2
+  rotate: false
+  xy: 861, 72
+  size: 44, 50
+  orig: 46, 52
+  offset: 1, 1
+  index: -1
+FaceLeafs_3
+  rotate: false
+  xy: 917, 54
+  size: 30, 37
+  orig: 32, 39
+  offset: 1, 1
+  index: -1
+FaceLeafs_4
+  rotate: true
+  xy: 382, 96
+  size: 9, 17
+  orig: 11, 19
+  offset: 1, 1
+  index: -1
+FaceR_On
+  rotate: true
+  xy: 625, 27
+  size: 82, 77
+  orig: 82, 77
+  offset: 0, 0
+  index: -1
+FingerL2
+  rotate: true
+  xy: 850, 46
+  size: 19, 34
+  orig: 19, 34
+  offset: 0, 0
+  index: -1
+FingerL_1
+  rotate: false
+  xy: 927, 229
+  size: 16, 25
+  orig: 18, 27
+  offset: 1, 1
+  index: -1
+FingerR_1
+  rotate: true
+  xy: 567, 3
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+FingerR_2
+  rotate: false
+  xy: 644, 146
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+FingersL
+  rotate: true
+  xy: 623, 4
+  size: 20, 36
+  orig: 20, 36
+  offset: 0, 0
+  index: -1
+FingersR
+  rotate: false
+  xy: 597, 3
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+HandL
+  rotate: false
+  xy: 858, 3
+  size: 34, 41
+  orig: 34, 41
+  offset: 0, 0
+  index: -1
+HandR
+  rotate: false
+  xy: 886, 132
+  size: 30, 49
+  orig: 30, 49
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 2, 2
+  size: 252, 253
+  orig: 258, 253
+  offset: 0, 0
+  index: -1
+Head_Leafs_1
+  rotate: true
+  xy: 675, 112
+  size: 60, 40
+  orig: 62, 42
+  offset: 1, 1
+  index: -1
+Head_Leafs_2
+  rotate: true
+  xy: 907, 93
+  size: 37, 31
+  orig: 39, 33
+  offset: 1, 1
+  index: -1
+Head_Leafs_3
+  rotate: false
+  xy: 949, 195
+  size: 29, 27
+  orig: 31, 29
+  offset: 1, 1
+  index: -1
+Head_Leafs_4
+  rotate: false
+  xy: 859, 204
+  size: 35, 50
+  orig: 37, 52
+  offset: 1, 1
+  index: -1
+Head_Leafs_5
+  rotate: true
+  xy: 776, 3
+  size: 27, 30
+  orig: 29, 32
+  offset: 1, 1
+  index: -1
+Head_Leafs_6
+  rotate: false
+  xy: 859, 183
+  size: 27, 19
+  orig: 29, 21
+  offset: 1, 1
+  index: -1
+Head_Leafs_7
+  rotate: true
+  xy: 479, 10
+  size: 95, 70
+  orig: 97, 72
+  offset: 1, 1
+  index: -1
+Head_Leafs_8
+  rotate: false
+  xy: 886, 51
+  size: 29, 19
+  orig: 31, 21
+  offset: 1, 1
+  index: -1
+Legs_Leafs_1
+  rotate: true
+  xy: 919, 190
+  size: 14, 27
+  orig: 16, 29
+  offset: 1, 1
+  index: -1
+Legs_Leafs_2
+  rotate: true
+  xy: 661, 2
+  size: 23, 31
+  orig: 25, 33
+  offset: 1, 1
+  index: -1
+Legs_Leafs_3
+  rotate: false
+  xy: 551, 2
+  size: 14, 22
+  orig: 16, 24
+  offset: 1, 1
+  index: -1
+Legs_Leafs_4
+  rotate: false
+  xy: 888, 184
+  size: 12, 18
+  orig: 14, 20
+  offset: 1, 1
+  index: -1
+Legs_Leafs_5
+  rotate: true
+  xy: 949, 224
+  size: 30, 29
+  orig: 32, 31
+  offset: 1, 1
+  index: -1
+Legs_Leafs_6
+  rotate: false
+  xy: 829, 45
+  size: 19, 20
+  orig: 21, 22
+  offset: 1, 1
+  index: -1
+Legs_Leafs_L
+  rotate: false
+  xy: 729, 180
+  size: 54, 74
+  orig: 54, 74
+  offset: 0, 0
+  index: -1
+Legs_Leafs_R
+  rotate: false
+  xy: 551, 26
+  size: 72, 83
+  orig: 72, 84
+  offset: 0, 0
+  index: -1
+Lief_ArmR_2_2_1
+  rotate: false
+  xy: 927, 214
+  size: 14, 13
+  orig: 16, 15
+  offset: 1, 1
+  index: -1
+Lief_ArmR_2_2_2
+  rotate: false
+  xy: 401, 96
+  size: 6, 9
+  orig: 8, 11
+  offset: 1, 1
+  index: -1
+Nose_On
+  rotate: false
+  xy: 644, 174
+  size: 37, 80
+  orig: 37, 80
+  offset: 0, 0
+  index: -1
+PupilL
+  rotate: true
+  xy: 980, 205
+  size: 13, 14
+  orig: 15, 16
+  offset: 1, 1
+  index: -1
+PupilR
+  rotate: false
+  xy: 996, 205
+  size: 14, 13
+  orig: 16, 15
+  offset: 1, 1
+  index: -1
+RootL
+  rotate: false
+  xy: 499, 111
+  size: 84, 143
+  orig: 84, 143
+  offset: 0, 0
+  index: -1
+RootL_Leafs
+  rotate: false
+  xy: 896, 206
+  size: 29, 48
+  orig: 29, 48
+  offset: 0, 0
+  index: -1
+RootMiddle
+  rotate: false
+  xy: 257, 96
+  size: 123, 158
+  orig: 123, 158
+  offset: 0, 0
+  index: -1
+RootR
+  rotate: true
+  xy: 331, 9
+  size: 85, 146
+  orig: 85, 146
+  offset: 0, 0
+  index: -1
+RootR_Leafs_1
+  rotate: false
+  xy: 783, 43
+  size: 44, 67
+  orig: 44, 67
+  offset: 0, 0
+  index: -1
+RootR_Leafs_2
+  rotate: false
+  xy: 694, 5
+  size: 20, 20
+  orig: 22, 22
+  offset: 1, 1
+  index: -1
+RootR_Leafs_3
+  rotate: true
+  xy: 649, 116
+  size: 28, 24
+  orig: 30, 26
+  offset: 1, 1
+  index: -1
+ShelterL_1
+  rotate: false
+  xy: 804, 124
+  size: 49, 55
+  orig: 49, 55
+  offset: 0, 0
+  index: -1
+ShelterL_2
+  rotate: false
+  xy: 902, 187
+  size: 15, 17
+  orig: 17, 19
+  offset: 1, 1
+  index: -1
+ShelterL_3
+  rotate: false
+  xy: 980, 190
+  size: 13, 13
+  orig: 15, 15
+  offset: 1, 1
+  index: -1
+ShelterR_1
+  rotate: false
+  xy: 785, 181
+  size: 72, 73
+  orig: 72, 73
+  offset: 0, 0
+  index: -1
+ShelterR_2
+  rotate: false
+  xy: 808, 3
+  size: 48, 38
+  orig: 50, 40
+  offset: 1, 1
+  index: -1

@@ -1,22 +1,16 @@
 ﻿using System;
-using System.Linq;
 using Core.Editor;
 using Sirenix.OdinInspector.Editor;
 using UnityEditor;
 using UnityEngine;
 
-namespace Editor
+namespace Editor.AnimationTool
 {
-    public class TileEditWindow : OdinMenuEditorWindow
-    {
+    public class TileEditWindow : OdinMenuEditorWindow {
         private int _currentIndex;
 
         private ToolSettings _globalSettings;
         private string _currentNameText;
-
-        private static Type[] _typesToDisplay = TypeCache.GetTypesWithAttribute<TilesDataAttribute>()
-            .OrderBy(m => m.Name)
-            .ToArray();
 
         private Type _selectedType;
         private OdinMenuTree _tree;
@@ -38,7 +32,7 @@ namespace Editor
             _selectedType = typeof(TilesPack);
             
             _tree = new OdinMenuTree();
-            _tree.AddAllAssetsAtPath(_selectedType.Name, "Assets/", _selectedType, true, true);
+            _tree.AddAllAssetsAtPath(_selectedType.Name, _globalSettings.TilePacksPath, _selectedType, true, true);
 
             return _tree;
         }
@@ -86,7 +80,7 @@ namespace Editor
             
             TilesPack asset = CreateInstance<TilesPack>();
 
-            AssetDatabase.CreateAsset(asset, $"{_globalSettings.ToolPacksPath}/{_currentNameText}.asset");
+            AssetDatabase.CreateAsset(asset, $"{_globalSettings.TilePacksPath}/{_currentNameText}.asset");
             AssetDatabase.SaveAssets();
 
             EditorUtility.FocusProjectWindow();

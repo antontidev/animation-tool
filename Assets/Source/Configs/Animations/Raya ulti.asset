@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd33cb862b4841d7b1c40091a140a44f, type: 3}
+  m_Name: Raya ulti
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Type: 1
+  Effects:
+  - AnimationActionType: 0
+    Delay: 0
+    HasHitAnimation: 0
+    Nested: 0
+    EffectType: 1
+    ProjectileFlyTime: 0
+    SpineEffect: {fileID: 11400000, guid: c5973f6ea5e222a4ea5fac3ac2e5a9c6, type: 2}
+    AnimationEffect: {fileID: 0}
+    ProjectileEffect: {fileID: 0}
+    StartPositionState: 0
+    EndPositionState: 0
+    UseMultiplePoints: 0
+    Points: []
+    StartPosition: {x: 3, y: 3.94, z: 0}
+    EndPosition: {x: 0, y: 0, z: 0}
+  - AnimationActionType: 0
+    Delay: 1.5
+    HasHitAnimation: 0
+    Nested: 0
+    EffectType: 1
+    ProjectileFlyTime: 0
+    SpineEffect: {fileID: 11400000, guid: 7dd3301c470aaaa4fb08acb6c9129278, type: 2}
+    AnimationEffect: {fileID: 0}
+    ProjectileEffect: {fileID: 0}
+    StartPositionState: 0
+    EndPositionState: 0
+    UseMultiplePoints: 0
+    Points: []
+    StartPosition: {x: 3, y: 6.21, z: 0}
+    EndPosition: {x: 0, y: 0, z: 0}
+  - AnimationActionType: 2
+    Delay: 0
+    HasHitAnimation: 0
+    Nested: 0
+    EffectType: 1
+    ProjectileFlyTime: 0
+    SpineEffect: {fileID: 11400000, guid: 6404b862e3cb89548adbf77cfb9f810f, type: 2}
+    AnimationEffect: {fileID: 0}
+    ProjectileEffect: {fileID: 0}
+    StartPositionState: 0
+    EndPositionState: 0
+    UseMultiplePoints: 0
+    Points: []
+    StartPosition: {x: 0.63, y: 6.5, z: 0}
+    EndPosition: {x: 0, y: 0, z: 0}
+  - AnimationActionType: 2
+    Delay: 0
+    HasHitAnimation: 0
+    Nested: 0
+    EffectType: 1
+    ProjectileFlyTime: 0
+    SpineEffect: {fileID: 11400000, guid: 6404b862e3cb89548adbf77cfb9f810f, type: 2}
+    AnimationEffect: {fileID: 0}
+    ProjectileEffect: {fileID: 0}
+    StartPositionState: 0
+    EndPositionState: 0
+    UseMultiplePoints: 0
+    Points: []
+    StartPosition: {x: 5.32, y: 6.5, z: 0}
+    EndPosition: {x: 0, y: 0, z: 0}

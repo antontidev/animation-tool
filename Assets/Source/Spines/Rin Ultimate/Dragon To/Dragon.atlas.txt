@@ -1,0 +1,195 @@
+
+Dragon.png
+size: 996,570
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+drakon_00052
+  rotate: true
+  xy: 742, 375
+  size: 83, 82
+  orig: 400, 171
+  offset: 15, 83
+  index: -1
+drakon_00053
+  rotate: true
+  xy: 742, 375
+  size: 83, 82
+  orig: 400, 171
+  offset: 15, 83
+  index: -1
+drakon_00054
+  rotate: true
+  xy: 742, 460
+  size: 108, 109
+  orig: 400, 171
+  offset: 12, 61
+  index: -1
+drakon_00055
+  rotate: true
+  xy: 858, 42
+  size: 108, 109
+  orig: 400, 171
+  offset: 12, 61
+  index: -1
+drakon_00056
+  rotate: false
+  xy: 506, 2
+  size: 132, 128
+  orig: 400, 171
+  offset: 13, 39
+  index: -1
+drakon_00057
+  rotate: false
+  xy: 858, 281
+  size: 132, 128
+  orig: 400, 171
+  offset: 34, 27
+  index: -1
+drakon_00058
+  rotate: false
+  xy: 858, 152
+  size: 132, 127
+  orig: 400, 171
+  offset: 56, 15
+  index: -1
+drakon_00059
+  rotate: true
+  xy: 858, 411
+  size: 157, 136
+  orig: 400, 171
+  offset: 50, 5
+  index: -1
+drakon_00060
+  rotate: true
+  xy: 640, 8
+  size: 148, 119
+  orig: 400, 171
+  offset: 65, 0
+  index: -1
+drakon_00061
+  rotate: true
+  xy: 514, 360
+  size: 208, 123
+  orig: 400, 171
+  offset: 26, 10
+  index: -1
+drakon_00062
+  rotate: false
+  xy: 286, 6
+  size: 218, 90
+  orig: 400, 171
+  offset: 34, 10
+  index: -1
+drakon_00063
+  rotate: true
+  xy: 318, 347
+  size: 221, 89
+  orig: 400, 171
+  offset: 42, 2
+  index: -1
+drakon_00064
+  rotate: true
+  xy: 2, 300
+  size: 268, 89
+  orig: 400, 171
+  offset: 53, 2
+  index: -1
+drakon_00065
+  rotate: true
+  xy: 2, 32
+  size: 266, 94
+  orig: 400, 171
+  offset: 73, 3
+  index: -1
+drakon_00066
+  rotate: true
+  xy: 93, 319
+  size: 249, 107
+  orig: 400, 171
+  offset: 122, 3
+  index: -1
+drakon_00067
+  rotate: true
+  xy: 98, 68
+  size: 249, 106
+  orig: 400, 171
+  offset: 122, 4
+  index: -1
+drakon_00068
+  rotate: true
+  xy: 202, 334
+  size: 234, 114
+  orig: 400, 171
+  offset: 137, 5
+  index: -1
+drakon_00069
+  rotate: true
+  xy: 206, 98
+  size: 234, 103
+  orig: 400, 171
+  offset: 137, 16
+  index: -1
+drakon_00070
+  rotate: true
+  xy: 311, 98
+  size: 234, 103
+  orig: 400, 171
+  offset: 137, 16
+  index: -1
+drakon_00071
+  rotate: true
+  xy: 409, 351
+  size: 217, 103
+  orig: 400, 171
+  offset: 154, 20
+  index: -1
+drakon_00072
+  rotate: true
+  xy: 416, 132
+  size: 217, 103
+  orig: 400, 171
+  offset: 154, 20
+  index: -1
+drakon_00073
+  rotate: true
+  xy: 625, 158
+  size: 200, 101
+  orig: 400, 171
+  offset: 171, 24
+  index: -1
+drakon_00074
+  rotate: true
+  xy: 639, 368
+  size: 200, 101
+  orig: 400, 171
+  offset: 171, 24
+  index: -1
+drakon_00075
+  rotate: true
+  xy: 521, 158
+  size: 200, 102
+  orig: 400, 171
+  offset: 171, 23
+  index: -1
+drakon_00076
+  rotate: true
+  xy: 728, 185
+  size: 181, 104
+  orig: 400, 171
+  offset: 182, 23
+  index: -1
+drakon_00077
+  rotate: true
+  xy: 761, 2
+  size: 181, 95
+  orig: 400, 171
+  offset: 182, 32
+  index: -1
+drakon_00078
+  rotate: true
+  xy: 206, 5
+  size: 91, 78
+  orig: 400, 171
+  offset: 255, 44
+  index: -1
